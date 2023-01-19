@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello World! This is my GitHub practice!\n";
+    std::cout << "Hello World! This is my GitHub practice! Let's make a change now.\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
